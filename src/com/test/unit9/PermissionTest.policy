@@ -1,0 +1,6 @@
+grant 
+{
+   
+    permission com.test.unit9.WordCheckPermission "abc","insert";
+
+};

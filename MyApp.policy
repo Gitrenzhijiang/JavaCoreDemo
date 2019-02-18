@@ -1,0 +1,5 @@
+
+grant codeBase "file:D:/myfile/JavaSource/w1/JavaCoreDemo/build/classes/"
+{
+    permission java.io.FilePermission "D://a/*", "read,write";
+};
